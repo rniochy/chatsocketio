@@ -8,6 +8,10 @@
      font-size: 16pt;
 }
 
+#messages {
+      font-size: 13px;
+}
+
 .row, select, label, button, input {
      width: 310px;
      padding: 10px;  
